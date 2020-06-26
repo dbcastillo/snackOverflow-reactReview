@@ -18,10 +18,12 @@ hurt = Fan.new("hurt", 6)
 slurt = Fan.new("Slurt", 3)
 kurt = Fan.new("kurt", 9)
 
-one = Concert.new(burt, derick)
-two = Concert.new(hurt, haley)
-three = Concert.new(slurt, seth)
-four = Concert.new(kurt, josue)
+one = Concert.new(burt, derick, 5)
+two = Concert.new(hurt, haley, 9)
+three = Concert.new(slurt, seth, 3)
+four = Concert.new(kurt, josue, 4)
+five = Concert.new(burt, haley, 9)
+six = Concert.new(slurt, haley, 9)
 
 binding.pry
 0
