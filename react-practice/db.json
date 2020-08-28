@@ -1,0 +1,34 @@
+{
+  "drinkcards": [
+    {
+      "id": 1,
+      "user": "Mike",
+      "beverage": "Margarita",
+      "image": "https://www.thecocktaildb.com/images/media/drink/wpxpvu1439905379.jpg"
+    },
+    {
+      "id": 2,
+      "user": "Mark",
+      "beverage": "Margarita",
+      "image": "https://www.thecocktaildb.com/images/media/drink/wpxpvu1439905379.jpg"
+    },
+    {
+      "id": 3,
+      "user": "Marilyn",
+      "beverage": "Margarita",
+      "image": "https://www.thecocktaildb.com/images/media/drink/wpxpvu1439905379.jpg"
+    },
+    {
+      "id": 4,
+      "user": "Manny",
+      "beverage": "Margarita",
+      "image": "https://www.thecocktaildb.com/images/media/drink/wpxpvu1439905379.jpg"
+    },
+    {
+      "user": "Raza",
+      "beverage": "Strawberry Margarita",
+      "image": "https://www.thecocktaildb.com/images/media/drink/tqyrpw1439905311.jpg",
+      "id": 5
+    }
+  ]
+}
